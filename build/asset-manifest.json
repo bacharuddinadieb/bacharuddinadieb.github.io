@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myapp/static/css/main.de3080ff.chunk.css",
+    "main.js": "/myapp/static/js/main.3b7558aa.chunk.js",
+    "main.js.map": "/myapp/static/js/main.3b7558aa.chunk.js.map",
+    "runtime~main.js": "/myapp/static/js/runtime~main.e4f53ea3.js",
+    "runtime~main.js.map": "/myapp/static/js/runtime~main.e4f53ea3.js.map",
+    "static/css/2.c35655eb.chunk.css": "/myapp/static/css/2.c35655eb.chunk.css",
+    "static/js/2.690ee6b2.chunk.js": "/myapp/static/js/2.690ee6b2.chunk.js",
+    "static/js/2.690ee6b2.chunk.js.map": "/myapp/static/js/2.690ee6b2.chunk.js.map",
+    "index.html": "/myapp/index.html",
+    "precache-manifest.0d470f3bdc22bdd96502dc594ff93649.js": "/myapp/precache-manifest.0d470f3bdc22bdd96502dc594ff93649.js",
+    "service-worker.js": "/myapp/service-worker.js",
+    "static/css/2.c35655eb.chunk.css.map": "/myapp/static/css/2.c35655eb.chunk.css.map",
+    "static/css/main.de3080ff.chunk.css.map": "/myapp/static/css/main.de3080ff.chunk.css.map",
+    "static/media/add.svg": "/myapp/static/media/add.6d9a1786.svg",
+    "static/media/contact.svg": "/myapp/static/media/contact.21247cd9.svg",
+    "static/media/logo.svg": "/myapp/static/media/logo.5d5d9eef.svg"
+  }
+}

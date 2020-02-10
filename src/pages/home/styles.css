@@ -1,0 +1,14 @@
+.home {
+  height: content-box;
+  color: aquamarine;
+}
+
+.am-grid .am-flexbox {
+  background: #f5f5f9;
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx) {
+  html:not([data-scale]) .am-button-primary::before {
+    border: none;
+  }
+}
